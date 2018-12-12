@@ -1,3 +1,3 @@
 Problem hub for BCA CTF.
 
-new branch test
+test of github branch protection rules
