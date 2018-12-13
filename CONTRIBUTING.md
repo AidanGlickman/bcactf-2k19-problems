@@ -14,6 +14,8 @@ Thank you for your interest in BCA CTF!  We are very grateful for your help.
 
 To contribute to BCA CTF, you need to clone this repository, push your local repository to a new remote branch, and submit a pull request for the changes that you're proposing.
 
+In order to push a change/problem, you can use `git push origin master:<remote branch name>` so that you do not need multiple branches on your local machine.A
+
 * [How to clone a repository](https://help.github.com/articles/cloning-a-repository/)
 * [How to push to a remote branch](https://help.github.com/articles/pushing-to-a-remote/)
 * [How to make a pull request](https://help.github.com/articles/creating-a-pull-request/)
