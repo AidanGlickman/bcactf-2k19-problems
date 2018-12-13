@@ -29,10 +29,10 @@ This repository contains the following folders:
 * \binary
 * \cryptography
 * \miscellaneous
+* \other
 * \programming
 * \reversing
 * \web
-* \other
 
 Within these folders you'll find the accepted problems that will appear in our BCA CTF competition.  When creating your problem, be sure to place it within its corresponding topic folders.  Your problem should also be contained within its own folder with the problem's name as its title.  
 
