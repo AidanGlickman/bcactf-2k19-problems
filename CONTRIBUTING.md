@@ -40,7 +40,7 @@ Within these folders you'll find the accepted problems that will appear in our B
 
 We recommend that you create a local working branch as you create your problem (and then submit a pull request when your changes are ready). Each branch and pull request should be limited to a single problem, both to streamline work flow, and to reduce the possibility of merge conflicts.
 
-## How to use Markdown to format your topic
+## How to use Markdown to format your problems
 
 All text associated with problems in this repository use Markdown.  Here is a good overview of [Markdown basics](https://help.github.com/articles/markdown-basics/).
 
