@@ -52,10 +52,11 @@ When submitting a pull request, please do not assign any people to it.  Also, ma
 All text associated with problems in this repository use Markdown.  Here is a good overview of [Markdown basics](https://help.github.com/articles/markdown-basics/).
 Please place a `problem.md` file in your problem directory as a quick explanation.
 Here is the basic outline for such a file:
+
 ```markdown
 # <Problem Title>
 ## Problem
-<Mission Statement>
+<Problem Statement>
 
 ## Required Files:
 * `<Required File>`
@@ -70,6 +71,7 @@ Here is the basic outline for such a file:
 
 > Problem submitted by <Contributors>
 ```
+
 Don't worry about this file too much, there will be time organized sometime close to then CTF to ensure that all problems share some consistency.
 Do not include point values, they shall be decided later on.
 
