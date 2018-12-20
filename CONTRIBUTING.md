@@ -50,6 +50,30 @@ When submitting a pull request, please do not assign any people to it.  Also, ma
 ## How to use Markdown to format your problems
 
 All text associated with problems in this repository use Markdown.  Here is a good overview of [Markdown basics](https://help.github.com/articles/markdown-basics/).
+Please place a `problem.md` file in your problem directory as a quick explanation.
+Here is the basic outline for such a file:
+
+```markdown
+# <Problem Title>
+## Problem
+<Problem Statement>
+
+## Required Files:
+* `<Required File>`
+* The file `<Optional File>` is not required but recommended
+* Example solution can be found in `<Example File>`
+
+## Hints
+* <Hints>
+
+## Flag
+`<Flag>`
+
+> Problem submitted by <Contributors>
+```
+
+Don't worry about this file too much, there will be time organized sometime close to then CTF to ensure that all problems share some consistency.
+Do not include point values, they shall be decided later on.
 
 ## Formatting
 
