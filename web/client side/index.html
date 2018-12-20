@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Client Side MD5</title>
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/3.3/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- standard MD5 implementation -->
+    <script type="text/javascript" src="md5.js"></script>
+    <script type="text/javascript">
+        function verify() {
+            checkpass = document.getElementById("password").value;
+            if (md5(checkpass) == "290e1c9cc54995453b810dfb15b853a1") {
+                alert("Correct!");
+            }
+            else {
+                alert("Incorrect password");
+            }
+            //alert(md5(checkpass));
+        }
+    </script>
+</head>
+
+<body>
+
+<div class="container">
+    <div class="header">
+        <h4 class="text-muted pull-right">BCACTF</h4>
+        <h3>Client Side MD5</h3>
+    </div>
+
+    <div class="jumbotron">
+        <h2 class="text-center">Admin Portal</h2>
+        <br>
+        <div class="alert alert-info alert-dismissible fade in show">
+            <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+            <h4 class="alert-heading text-left">Some helpful advice:</h4>
+            <hr>
+            The flag will be in the form <code>bcactf{flag}</code> when submitting.
+            To test a flag here, only input the text within the curly braces.
+        </div>
+        <form role="form">
+            <div class="form-group">
+                <input type="password" id="password" class="form-control input-lg" placeholder="Password">
+            </div>
+            <input type="submit" class="btn btn-lg btn-success btn-block" value="Log In" onclick="verify(); return False;">
+        </form>
+    </div>
+
+</div>
+</body>
+
+</html>
