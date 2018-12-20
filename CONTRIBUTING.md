@@ -45,7 +45,7 @@ We recommend that you create a local working branch as you create your problem (
 
 ### Pull Requests
 
-David has asked me the following: When submitting a pull request, please only assign Aidan Glickman.
+When submitting a pull request, please do not assign any people to it.  Also, make sure you are using the correct naming convention of `[TOPIC_IN_BRACKETS] Problem name`.
 
 ## How to use Markdown to format your problems
 
