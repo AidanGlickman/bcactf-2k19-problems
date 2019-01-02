@@ -10,5 +10,5 @@
     ```javascript
     document.cookie = "cookies=102384701923847091283640912384609123485701923857"
     ```
-3. Navigate to [the flag](http://localhost:5001/flag).
+3. Navigate to [the flag](http://localhost:5001/flag), revealing the flag in plain text.
 4. Profit! :tada:
