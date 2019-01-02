@@ -21,8 +21,5 @@ There are two possible procedures to solve this problem. Both of them are listed
 
 ### Procedure 2: Code Injection
 1. Click **See inside** to reveal and modify the code.
-1. In the blocks palette, scroll down to the **Variables** section, and check the box next to **flag**. This causes the **flag** variable to appear on the stage.
-1. Run the project by clicking the green flag. It appears that every time the flag is checked, the **flag** variable is reset to `[REDACTED]`. As such, to prevent that, the code that sets **flag** to `[REDACTED]` must be removed.
-1. Locate that code in the **reset variables** script. Remove it.
-1. Run the project again, and type in anything when prompted. The flag, `bcactf{scr4tch3d_Pourquoi_empty_234123424643682}` should appear in the **flag** variable.
-1. Run the project once more, type in the flag, and verify that it is correct.
+1. At the bottom of the **generate flag** script, add a **say (flag) for (200) seconds** block.
+1. Run the project by clicking the green flag. When prompted, type anything, then watch the flag be displayed to you in front of your very eyes.
