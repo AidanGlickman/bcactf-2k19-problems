@@ -1,0 +1,47 @@
+html {
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-touch-select: none;
+  -o-user-select: none;
+  -moz-user-select: none;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-image: radial-gradient(cyan, blue);
+  color: white;
+}
+
+.cookie {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: brown;
+  text-shadow: 0 0 100px white;
+  font-size: 400px;
+  transition: font-size 0.1s;
+  cursor: pointer;
+  z-index: 1;
+  user-select: none;
+}
+
+.cookie:hover {
+  font-size: 375px;
+}
+
+.cookie:active {
+  font-size: 350px;
+}
+
+.shop {
+  position: absolute;
+  left: 50%;
+  bottom: 8px;
+  transform: translateX(-50%);
+  z-index: 2;
+}

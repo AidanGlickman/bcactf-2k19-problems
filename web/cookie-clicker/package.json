@@ -1,0 +1,25 @@
+{
+  "name": "bca-ctf-cookie-clicker",
+  "version": "1.0.0",
+  "description": "Cookie Clicker web exploitation problem for BCA CTF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bca-ctf/problems.git"
+  },
+  "author": "anli5005 et al.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bca-ctf/problems/issues"
+  },
+  "homepage": "https://github.com/bca-ctf/problems#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "hbs": "^4.0.1"
+  }
+}
