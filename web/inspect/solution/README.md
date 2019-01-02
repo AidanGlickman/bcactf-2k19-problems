@@ -1,4 +1,4 @@
-# [The Inspector] Writeup
+# The Inspector Writeup
 
 ## Necessary Tools
 A browser with an inspect element or view source code ability.
