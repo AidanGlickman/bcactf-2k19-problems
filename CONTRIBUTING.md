@@ -42,10 +42,6 @@ This repository contains the following folders:
 
 Within these folders you'll find the accepted problems that will appear in our BCA CTF competition.  When creating your problem, be sure to place it within its corresponding topic folders.  Your problem should also be contained within its own folder with the problem's name as its title.  
 
-### Styles
-
-Before contributing, please take a moment to read [the style guide](styleguide.md) and follow it to keep organization clear.
-
 ### Branches
 
 We recommend that you create a local working branch as you create your problem (and then submit a pull request when your changes are ready). Each branch and pull request should be limited to a single problem, both to streamline work flow, and to reduce the possibility of merge conflicts.
