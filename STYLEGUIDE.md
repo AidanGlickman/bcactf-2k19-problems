@@ -84,6 +84,11 @@ The writeup should be as follows:
 1. Second you should do Y. I did it using [TOOL]
 1. Third you should do Z, revealing that the flag is `bcactf{flag}`
 
+## Flag
+`bcactf{flag}`
+
+> write-up by: **@author**
+
 ```
 
 >**NOTE**: The reason I use `1.` for every item of the list is so that you can go back and add intermediate steps later. Markdown viewers will take care of actually putting the correct numbers in.
