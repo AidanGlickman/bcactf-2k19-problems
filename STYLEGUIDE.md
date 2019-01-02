@@ -24,7 +24,8 @@ The folder for your problem should simply be the name of your problem, with the 
 |	+-- [put-source-code-here-if-applicable]
 +-- solution
 |	+-- README.md
-|	+-- [put-solver-files-here-if-applicable]
+|	+-- tools
+|	|	+-- [put-solver-files-here-if-applicable]
 
 ```
 
@@ -32,7 +33,7 @@ The folder for your problem should simply be the name of your problem, with the 
 * The directory `required-files` should contain all files that should be uploaded along with the problem, for example an image for a steganography problem.
 * The directory `source-code` should contain source code for a problem that should **not** be uploaded along with the problem. This includes source files for web problems, uncompiled code for binary reverse problems, and so on.
 	* If you need to include a compiled binary (for example if you are doing a binary reversal problem) please include it as a regular binary (for example a c program compiled with gcc) with no file extension and not something platform specific like a windows exe.
-* The directory `solution` should contain a writeup and any solver files, for example a script that may be useful for solving the problem.
+* The directory `solution` should contain a writeup and a `tools` folder with applicable tools, for example a script that may be useful for solving the problem.
 	* Style for `solution/README.md` is detailed [below](#the-writeup).
 
 > **NOTE:** When you are first submitting your problem, you do not have to have a writeup included. If you do not include a writeup and your problem is accepted, either you or one of the admins should add one later.
@@ -42,7 +43,7 @@ The folder for your problem should simply be the name of your problem, with the 
 `README.md` is the main file of your problem. It should be formatted as follows:
 
 ```markdown
-# Problem Title
+# [Problem Title]
 
 ## Problem Statement
 This is where you should put the message you want to appear with your problem.
@@ -52,9 +53,9 @@ This is where you should put the message you want to appear with your problem.
 * This is another hint to help
 
 ## Flag
-`bcactf{th15-15-th3-fl4g}`
+`bcactf{flag}`
 
-> made by: **@author**
+> made by: **@[author]**
 
 ```
 
@@ -62,7 +63,7 @@ You do not need to include anything about the required files other than describe
 
 ### The Flag
 
-* Flags should generally be in the format `bcactf{th15-15-th3-fl4g}`. 
+* Flags should generally be in the format `bcactf{flag}`. 
 * I recommend putting flags in 1337speak so that they can't be guessed as easily, but that kind of stuff is really up to you. 
 * Very rarely should the flag not be wrapped in `bcactf{}`, but sometimes this may be necessary, for example if the flag is hashed and can only be retrieved with a rainbow table. In this case please specify in the problem statement that the flag will not be wrapped in `bcactf{}` so that people don't get confused.
 
@@ -88,7 +89,7 @@ The writeup should be as follows:
 ## Flag
 `bcactf{flag}`
 
-> write-up by: **@author**
+> write-up by: **@[author]**
 
 ```
 
