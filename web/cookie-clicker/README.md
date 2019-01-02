@@ -49,7 +49,7 @@ Once you're done, navigate to [localhost:5001](http://localhost:5001) to see the
 * `package.json` - File used by NPM to download and install dependencies
 * `config.json` - Contains configuration options used to run the problem *(see **Configuration**)*
 * `static` - Folder containing the cookie clicker game itself
-* `templates/shop.hbs` - Folder containing a template used to generate the shop page
+* `templates/shop.hbs` - Template used to generate the shop page
 
 
 > Problem submitted by [anli5005](https://github.com/anli5005)
