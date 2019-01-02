@@ -31,6 +31,7 @@ The folder for your problem should simply be the name of your problem, with the 
 * Style for `README.md` is detailed [below](#the-problem-file).
 * The directory `required-files` should contain all files that should be uploaded along with the problem, for example an image for a steganography problem.
 * The directory `source-code` should contain source code for a problem that should **not** be uploaded along with the problem. This includes source files for web problems, uncompiled code for binary reverse problems, and so on.
+	* If you need to include a compiled binary (for example if you are doing a binary reversal problem) please include it as a regular binary (for example a c program compiled with gcc) with no file extension and not something platform specific like a windows exe.
 * The directory `solution` should contain a writeup and any solver files, for example a script that may be useful for solving the problem.
 	* Style for `solution/README.md` is detailed [below](#the-writeup).
 
