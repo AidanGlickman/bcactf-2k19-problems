@@ -4,6 +4,7 @@ To run this problem, you'll need to download and install an up-to-date version o
 To install dependencies (required before you run the problem), use these commands:
 ```shell
 $ cd path/to/cookie-clicker
+$ cd source-code
 $ npm install
 ```
 NPM will download any dependencies that this problem requires and will install them in the `node_modules` directory. You only need to perform this step once.
