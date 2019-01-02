@@ -1,5 +1,8 @@
 ## Contribute to BCA CTF Problems
 
+[![Documentation Status](https://img.shields.io/readthedocs/bca-ctf/2019.svg?logo=read%20the%20docs)](https://bca-ctf.readthedocs.io/en/2019/?badge=2019)
+[![Request Writeup](https://img.shields.io/badge/request-writeup-673AB6.svg?style=flat)](https://goo.gl/forms/ZWUjr38XkOZ21HWl2)
+
 Thank you for your interest in BCA CTF!  We are very grateful for your help.
 
 * [Contributing](#contributing)
