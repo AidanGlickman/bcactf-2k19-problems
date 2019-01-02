@@ -7,6 +7,7 @@ Thank you for your interest in BCA CTF!  We are very grateful for your help.
 
 * [Contributing](#contributing)
 * [Repository organization](#repository-organization)
+* [Styles](#styles)
 * [Branches](#branches)
 * [How to use Markdown to format your problems](#how-to-use-markdown-to-format-your-problems)
 * [Formatting](#formatting)
@@ -42,13 +43,17 @@ This repository contains the following folders:
 
 Within these folders you'll find the accepted problems that will appear in our BCA CTF competition.  When creating your problem, be sure to place it within its corresponding topic folders.  Your problem should also be contained within its own folder with the problem's name as its title.  
 
+### Styles
+
+Before contributing, please take a moment to read [the style guide](styleguide.md) and follow it to keep organization clear.
+
 ### Branches
 
 We recommend that you create a local working branch as you create your problem (and then submit a pull request when your changes are ready). Each branch and pull request should be limited to a single problem, both to streamline work flow, and to reduce the possibility of merge conflicts.
 
 ### Pull Requests
 
-When submitting a pull request, please do not assign any people to it.  Also, make sure you are using the correct naming convention of `[TOPIC_IN_BRACKETS] Problem name`.
+When submitting a pull request, please assign to Aidan Glickman.  Also, make sure you are using the correct naming convention of `[TOPIC_IN_BRACKETS] Problem name`.
 
 ## How to use Markdown to format your problems
 
