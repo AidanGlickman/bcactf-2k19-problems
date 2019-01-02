@@ -1,11 +1,14 @@
 ## Contribute to BCA CTF Problems
 
+[![Documentation Status](https://img.shields.io/readthedocs/bca-ctf/2019.svg?logo=read%20the%20docs)](https://bca-ctf.readthedocs.io/en/2019/?badge=2019)
+[![Request Writeup](https://img.shields.io/badge/request-writeup-673AB6.svg?style=flat)](https://goo.gl/forms/ZWUjr38XkOZ21HWl2)
+
 Thank you for your interest in BCA CTF!  We are very grateful for your help.
 
 * [Contributing](#contributing)
 * [Repository organization](#repository-organization)
+* [Styles](#styles)
 * [Branches](#branches)
-* [How to use Markdown to format your problems](#how-to-use-markdown-to-format-your-problems)
 * [Formatting](#formatting)
 
 >**Note**: Before submitting a pull request, please review the problem topics in the "Projects" tab and add your problem's corresponding topic to the beginning of your pull request's title in the form `[TOPIC_IN_BRACKETS] Problem name`.
@@ -45,94 +48,8 @@ We recommend that you create a local working branch as you create your problem (
 
 ### Pull Requests
 
-When submitting a pull request, please do not assign any people to it.  Also, make sure you are using the correct naming convention of `[TOPIC_IN_BRACKETS] Problem name`.
+When submitting a pull request, please assign to Aidan Glickman.  Also, make sure you are using the correct naming convention of `[TOPIC_IN_BRACKETS] Problem name`.
 
-## How to use Markdown to format your problems
+### Formatting
 
-All text associated with problems in this repository use Markdown.  Here is a good overview of [Markdown basics](https://help.github.com/articles/markdown-basics/).
-Please place a `problem.md` file in your problem directory as a quick explanation.
-Here is the basic outline for such a file:
-
-```markdown
-# <Problem Title>
-## Problem
-<Problem Statement>
-
-## Required Files:
-* `<Required File>`
-* The file `<Optional File>` is not required but recommended
-* Example solution can be found in `<Example File>`
-
-## Hints
-* <Hints>
-
-## Flag
-`<Flag>`
-
-> Problem submitted by <Contributors>
-```
-
-Don't worry about this file too much, there will be time organized sometime close to then CTF to ensure that all problems share some consistency.
-Do not include point values, they shall be decided later on.
-
-## Formatting
-
-### Headings
-
-H1 headings `#` are used at the top of your problem's prompt/solution to display the problem's name and topic (same format as the pull request title).
-
-H2 subheadings `##` are used if you need to seperate your problem prompt/solution into additional sections.  Any heading smaller than H2 should be rarely used.
-
-### Text formatting
-
-Use bold for information you want to stand out to the user.
-
-    **like Julius Caesar**
-    **62 6f 6c 64 0a**
-
-Limit the use of bold for emphasis unless it is crucial to get the user's attention. Avoid the use of italics for emphasis since italics doesn't render well on the site.
-
-Use inline code formatting (backticks) for any code or commands.
-
-    `print("Hello World")`
-    `$ cd ..`
-    `gcc -o test.c`
-
-Use '>' to show sequence.
-
-    **File** > **Preferences** > **Settings**
-    **Downloads** > **Reverse This**
-
-### Links
-
-For links within your problem prompt/solution, use the following format.
-
-For example: `[6502 tutorial](https://www.youtube.com/watch?v=dQw4w9WgXcQ)` - links to a relevant YouTube video
-
->**Note:** If you are creating a server-side problem, please contact an administrator about how you should proceed.
-
-### Images
-
-Images are important to bring the problem prompt to life.
-
-For images you're adding to the repo, store them in an `images` subfolder of your problem folder, for example: `images\nottheflag`.
-
-When you link to an image in your problem's prompt/solution, the path and filename are case-sensitive.  The convention is for image filenames to be all lowercase; however, you can be as creative as you'd like.
-
-For example: `![The Flag](images\nottheflag)`
-
-### Source Code
-
-For longer code we use the fenced code block notation ```` ``` ````.
-
->**Note:** You can add an optional language identifier to enable syntax highlighting in your fenced code block. E.g. ```` ```json ```` or ```` ```javascript ````. [Read more →](https://help.github.com/articles/creating-and-highlighting-code-blocks/#syntax-highlighting)
-
-Some JavaScript code...
-
-```javascript
-function fancyAlert(arg) {
-  if (arg) {
-    $.facebox({ div: foo });
-  }
-}
-```
+Please read [the styleguide](STYLEGUIDE.md) before writing a problem, and make sure to follow it. Otherwise your pull request will be put on hold until you fix the formatting of the problem.
