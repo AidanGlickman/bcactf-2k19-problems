@@ -53,3 +53,5 @@ When submitting a pull request, please assign to Aidan Glickman.  Also, make sur
 ### Formatting
 
 Please read [the styleguide](STYLEGUIDE.md) before writing a problem, and make sure to follow it. Otherwise your pull request will be put on hold until you fix the formatting of the problem.
+
+If you are trying to submit a file that is disallowed by the gitignore but you want it uploaded for your problem, please contact an administrator.
