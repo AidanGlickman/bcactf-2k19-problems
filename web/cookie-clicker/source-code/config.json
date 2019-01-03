@@ -1,0 +1,5 @@
+{
+  "port": 5001,
+  "cookieThreshold": 100000000000000000000,
+  "flag": "bcaCTF{c00k13s_c71ck3d_34a2344d}"
+}
