@@ -384,4 +384,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Jetbrains project settings
+.idea/
+
 # End of https://www.gitignore.io/api/c,node,java,macos,flask,python,windows
