@@ -48,7 +48,7 @@ The folder for your problem should simply be the name of your problem, with the 
 ## Problem Statement
 This is where you should put the message you want to appear with your problem.
 
-## Hints
+## Hints (Optional)
 * This is a hint to help if you are stuck
 * This is another hint to help
 
