@@ -1,6 +1,6 @@
 # Client Side MD5
 
-## Problem
+## Problem Statement
 Your friend John made an admin portal to his website, and added a password.
 You tell him that client side encryption is bad, but all he does is taunt you and dare you to break it.
 How can you skip his password and go to the secrets?
