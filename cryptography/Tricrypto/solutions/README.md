@@ -14,4 +14,4 @@
 ## Flag
 `bcactf{galftcacb}`
 
-> write-up by: **@[eruuc]**
+> write-up by: **@eruuc**
