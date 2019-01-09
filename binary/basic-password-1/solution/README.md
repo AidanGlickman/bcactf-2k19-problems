@@ -27,3 +27,5 @@ while result == 1:
 `os.devnull` is used here to get rid of the human-readable output.
 `result` tracks the exit code, and will cause the while loop to break after it gets an exit key that isn't 1 (in our case, the only other exit code is 0).
 `i` tracks the passcode currently being tried.
+
+> write-up by: [**@edwfeng**](https://github.com/edwfeng)

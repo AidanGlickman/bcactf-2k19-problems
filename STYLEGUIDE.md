@@ -55,7 +55,7 @@ This is where you should put the message you want to appear with your problem.
 ## Flag
 `bcactf{flag}`
 
-> made by: **@[author]**
+> made by: [**@author**](https://github.com/author)
 
 ```
 
@@ -78,8 +78,8 @@ The writeup should be as follows:
 # [Problem Title] Writeup
 
 ## Necessary Tools
-* (This program/tool)[link to tool] is useful for solving this problem
-* (This program/tool)[link to tool] is also useful for solving this problem
+* [This program/tool](link to tool) is useful for solving this problem
+* [This program/tool](link to tool) is also useful for solving this problem
 
 ## Procedure
 1. First you should realize that X
@@ -89,7 +89,7 @@ The writeup should be as follows:
 ## Flag
 `bcactf{flag}`
 
-> write-up by: **@[author]**
+> write-up by: [**@author**](https://github.com/author)
 
 ```
 

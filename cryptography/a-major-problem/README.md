@@ -11,4 +11,4 @@ A mysterious figure named Major Mnemonic has sent you the following set of words
 ## Flag
 `bcactf{g3t_g0t}`
 
-> made by: **@[natjef]**
+> made by: [**@natjef**](https://github.com/natjef)

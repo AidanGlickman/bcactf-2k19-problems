@@ -25,4 +25,4 @@ In this specific problem, the user is given a string of Mnemonic major system-en
 ## Flag
 `bcactf{g3t_g0t}`
 
-> write-up by: **@[natjef]**
+> write-up by: [**@natjef**](https://github.com/natjef)
