@@ -43,7 +43,7 @@ The folder for your problem should simply be the name of your problem, with the 
 `README.md` is the main file of your problem. It should be formatted as follows:
 
 ```markdown
-# [Problem Title]
+# Problem Title
 
 ## Problem Statement
 This is where you should put the message you want to appear with your problem.
@@ -75,7 +75,7 @@ The writeup should be as follows:
 
 ```markdown
 
-# [Problem Title] Writeup
+# Problem Title Writeup
 
 ## Necessary Tools
 * [This program/tool](link to tool) is useful for solving this problem
