@@ -10,4 +10,4 @@ My friend got a virus that can only be removed after figuring out this flag. Us<
 ## Flag
 `bcactf{galftcacb}`
 
-> made by: **@eruuc**
+> made by: [**@eruuc**](https://github.com/eruuc)
