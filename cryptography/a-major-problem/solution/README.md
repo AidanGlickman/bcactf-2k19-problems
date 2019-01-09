@@ -1,8 +1,8 @@
 # A Major Problem Writeup
 
 ## Necessary Tools
-* (This Wikipedia page)[https://en.wikipedia.org/wiki/Mnemonic_major_system] is useful for solving this problem.
-* (https://www.browserling.com/tools/ascii-to-text)[link to tool] is also useful for solving this problem
+* [This Wikipedia page](https://en.wikipedia.org/wiki/Mnemonic_major_system) is useful for solving this problem.
+* [This tool](https://www.browserling.com/tools/ascii-to-text) is also useful for solving this problem
 
 ## Procedure
 
