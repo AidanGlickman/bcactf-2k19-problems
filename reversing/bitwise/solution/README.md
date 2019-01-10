@@ -29,3 +29,5 @@ Here is the general flow we want in a solution:
 2.  After we run through the list, we print the final output
 
 We can then test the brute-forced output with the original program.
+
+> write-up by: [**@edwfeng**]((https://github.com/edwfeng)

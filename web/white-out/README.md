@@ -15,4 +15,4 @@ None.
 bcactf{17s_r1gh7_h3r3_1n_wh1t3_1397856}
 ```
 
-> Problem submitted by [**@anli5005**](https://github.com/anli5005)
+> made by: [**@anli5005**](https://github.com/anli5005)

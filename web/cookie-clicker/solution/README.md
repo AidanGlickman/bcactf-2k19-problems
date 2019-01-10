@@ -12,3 +12,5 @@
     ```
 3. Navigate to [the flag](http://localhost:5001/flag), revealing the flag in plain text.
 4. Profit! :tada:
+
+> write-up by: [**@edwfeng**](https://github.com/edwfeng)

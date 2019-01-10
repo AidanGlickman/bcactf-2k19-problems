@@ -23,3 +23,5 @@ There are two possible procedures to solve this problem. Both of them are listed
 1. Click **See inside** to reveal and modify the code.
 1. At the bottom of the **generate flag** script, add a **say (flag) for (200) seconds** block.
 1. Run the project by clicking the green flag. When prompted, type anything, then watch the flag be displayed to you in front of your very eyes.
+
+> write-up by: [**@anli5005**](https://github.com/anli5005)

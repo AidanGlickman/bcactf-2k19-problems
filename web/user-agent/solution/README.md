@@ -15,7 +15,11 @@ SCP folklore gives us several [security clearance levels](http://www.scp-wiki.ne
 Persons with Level 5 Security Clearance are typically in the O5 Council.
 This, alongside the banner we get first loading the website, suggests that we may want to put `O5` somewhere in our user agent.
 If we then request the webpage again, we get the following line: 
+
 ```html
 <div class="content-panel centered standalone"><p>Welcome O5 council member, the flag is <span style="font-size:large; color: #600;">bcactf{hey_2521_is_pretty_coo-}</span>.</p></div>
 ```
+
 Cool!
+
+> write-up by: [**@edwfeng**](https://github.com/edwfeng)

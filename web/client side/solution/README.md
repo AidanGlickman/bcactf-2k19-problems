@@ -33,3 +33,5 @@ We could try to make a brute forcing algorithm.
 But why would we do something so computationally expensive when we could just use someone else's work?
 
 If we look online, we can find rainbow tables, where other people have compiled lists of hashes upon hashes.
+
+> write-up by: [**@edwfeng**](https://github.com/edwfeng)

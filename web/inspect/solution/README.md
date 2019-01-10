@@ -11,4 +11,4 @@ A browser with an inspect element or view source code ability.
 ## Flag
 `bcactf{1nsp3ct_3l3m3nt}`
 
-> write-up by: **@alexkato29**
+> write-up by: [**@alexkato29**](https://github.com/alexkato29)

@@ -13,4 +13,4 @@ The flag can be found in `config.json`. The default flag is:
 bcaCTF{c00k13s_c71ck3d_34a2344d}
 ```
 
-> Problem submitted by [**anli5005**](https://github.com/anli5005)
+> Problem submitted by [**@anli5005**](https://github.com/anli5005)
