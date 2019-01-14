@@ -46,4 +46,7 @@ Testing out this password in the program gives us a `Congrats!`, and the flag.
 
 We can also see the flag right on line 45.
 
+## Flag
+`bcactf{its_another_password}`
+
 > write-up by: [**@edwfeng**](https://github.com/edwfeng)

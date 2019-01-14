@@ -28,4 +28,7 @@ while result == 1:
 `result` tracks the exit code, and will cause the while loop to break after it gets an exit key that isn't 1 (in our case, the only other exit code is 0).
 `i` tracks the passcode currently being tried.
 
+## Flag
+`bcactf{hey_its_a_password}`
+
 > write-up by: [**@edwfeng**](https://github.com/edwfeng)
