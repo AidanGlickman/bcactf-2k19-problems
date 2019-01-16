@@ -8,7 +8,7 @@ My friend got a virus that can only be removed after figuring out this flag. He 
 When you find the flag, wrap it with "bcactf{flagname}". He found out that the number may use ROT13, Base 8, and Base 16.
 
 ## Hints
-* The subscript letters might help you find out the order of what to use. ROT13, Base 8, and Base 16 will all be used.
+* The bolded words might help you find out the order of what to use. ROT13, Base 8, and Base 16, and normal text will all be used.
 
 ## Flag
 `bcactf{galftcacb}`
