@@ -5,11 +5,12 @@
 * [This Hex, Decimal, Binary, and Octal Converter](https://www.rapidtables.com/convert/number/hex-dec-bin-converter.html) can be used to convert the numbers.
 
 ## Procedure
-1. When you look at the subscripts, it says E, S, and R. "E" stands for Base 8 (**E**ight), "S" stands for Base 16 (**S**ixteen), and "R" stands for ROT13.
+1. From what it says, the order to complete this problem is to convert it from Decimal, to Base 8, to Base 16, to text, and ROT13
 2. Using this information, you take the number that is given to you and convert it to Base 8.
 3. Take the number from step 2 and convert it to Base 16.
-4. Take the number from step 3 and decode it using the ROT13 decoder, and it reveals "galftcacb".
-5. Wrap "galftcacb" and it should be "bcactf{galftcacb}".
+4. Take the number from step 3 and convert it to text.
+5. Take the number from step 4 and decode it using the ROT13 decoder, and it reveals "galftcacb".
+6. Wrap "galftcacb" and it should be "bcactf{galftcacb}".
 
 Alternatively, you can use python to convert bases.
 ```python
