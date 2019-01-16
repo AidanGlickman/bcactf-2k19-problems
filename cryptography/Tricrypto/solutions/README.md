@@ -7,7 +7,7 @@
 ## Procedure
 1. When you look at the subscripts, it says E, S, and R. "E" stands for Base 8 (**E**ight), "S" stands for Base 16 (**S**ixteen), and "R" stands for ROT13.
 2. Using this information, you take the number that is given to you and convert it to Base 8.
-3. Take the number from step 2 and convert it to Base 16. `bcactf{flag}`
+3. Take the number from step 2 and convert it to Base 16.
 4. Take the number from step 3 and decode it using the ROT13 decoder, and it reveals "galftcacb".
 5. Wrap "galftcacb" and it should be "bcactf{galftcacb}".
 
