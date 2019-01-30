@@ -9,6 +9,6 @@
 3. Finally, you should open the image and the flag is displayed, revealing the flag to be 'bcactf{f1l3_h3ad3rs_r_c001}
 
 ## Flag
-'bcactf{f1l3_h3ad3rs_r_c001}
+`bcactf{f1l3_h3ad3rs_r_c001}`
 
 > write-up by: **@20nlevin**
