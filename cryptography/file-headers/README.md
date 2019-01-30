@@ -8,6 +8,6 @@ It looks like the PNG file that holds our flag has been corrupted. My computer i
 * The title is relevant to the solution of the problem...
 
 ## Flag
-'bcactf{f1l3_h3ad3rs_r_c00l}
+`bcactf{f1l3_h3ad3rs_r_c00l}`
 
 > made by: **@20nlevin**
