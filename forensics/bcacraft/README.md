@@ -3,7 +3,7 @@
 ## Problem Statement
 Yo I made a ***sic*** Minecraft *adventure* **MAP!**  Try it out it's kewler than ur Fortnite gamez!
 
-> This map runs in Minecraft 1.13.2.
+> This map runs in Minecraft 1.13.2, and is located in `required-files`.
 
 ## Hints
 * Where are Minecraft worlds stored on your computer?
