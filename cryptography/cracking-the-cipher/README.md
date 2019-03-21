@@ -75,7 +75,7 @@ Can you crack the code and tell us the information within?
 The answer should be in the format `bcactf{answer}`.
 
 ## Hints
-* Look closely at the receipt. What type of cipher is this?
+* Look closely at the receipt. Are there any clues to tell you what type of cipher this is?
 
 ## Flag
 `bcactf{learning_caesar_ciphers_is_fun!}`
