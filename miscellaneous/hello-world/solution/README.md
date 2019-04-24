@@ -9,4 +9,4 @@
 ## Flag
 `bcactf{hello!}`
 
-> write-up by: [**@aidanglickman**](https://github.com/aidanglickman)
+> write-up by: [**@aidanglickman**](https://aidanglickman.com)

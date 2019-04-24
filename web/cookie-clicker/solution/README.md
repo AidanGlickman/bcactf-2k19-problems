@@ -14,4 +14,4 @@
  2. Navigate to [the flag](http://localhost:5001/flag), revealing the flag in plain text.
  3. Profit! :tada:
 
-> write-up by: [**@anli5005**](https://anli.dev) and [**@aidanglickman**](https://github.com/aidanglickman)
+> write-up by: [**@anli5005**](https://anli.dev) and [**@aidanglickman**](https://aidanglickman.com)

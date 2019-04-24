@@ -10,4 +10,4 @@ My friend has always gotten in to weird things, and his recent obsession is with
 ## Flag
 `bcactf{r4i53_7h3_r00f_liz4rd}`
 
-> made by: [**@aidanglickman**](https://github.com/aidanglickman)
+> made by: [**@aidanglickman**](https://aidanglickman.com)

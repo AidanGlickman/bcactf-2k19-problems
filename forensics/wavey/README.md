@@ -9,4 +9,4 @@ My friend sent me his new mixtape, but honestly I don't think it's that good. Ca
 ## Flag
 `bcactf{f331in_7h3_vib3z}`
 
-> made by: [**@aidanglickman**](https://github.com/aidanglickman)
+> made by: [**@aidanglickman**](https://aidanglickman.com)

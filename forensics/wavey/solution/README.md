@@ -12,4 +12,4 @@
 ## Flag
 `bcactf{f331in_7h3_vib3z}`
 
-> write-up by: [**@aidanglickman**](https://github.com/aidanglickman)
+> write-up by: [**@aidanglickman**](https://aidanglickman.com)

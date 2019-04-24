@@ -12,4 +12,4 @@
 ## Flag
 `bcactf{7w0_r3d5_sdf3wqa}`
 
-> write-up by: [**@aidanglickman**](https://github.com/aidanglickman)
+> write-up by: [**@aidanglickman**](https://aidanglickman.com)

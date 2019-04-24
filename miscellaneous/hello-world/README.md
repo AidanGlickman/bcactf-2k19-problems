@@ -6,4 +6,4 @@ Input your first ever flag! The flag is `bcactf{hello!}`
 ## Flag
 `bcactf{hello!}`
 
-> made by: [**@aidanglickman**](https://github.com/aidanglickman)
+> made by: [**@aidanglickman**](https://aidanglickman.com)

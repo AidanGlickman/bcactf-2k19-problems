@@ -25,4 +25,4 @@
 ## Flag
 `bcactf{L157_8453d_pR0gR4Mm1nG_15_4w3S0Me!}`
 
-> write-up by: [**@aidanglickman**](https://github.com/aidanglickman)
+> write-up by: [**@aidanglickman**](https://aidanglickman.com)

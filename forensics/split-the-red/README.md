@@ -9,4 +9,4 @@ Moses used a staff to split the Red Sea. What will you use?
 ## Flag
 `bcactf{7w0_r3d5_sdf3wqa}`
 
-> made by: [**@aidanglickman**](https://github.com/aidanglickman)
+> made by: [**@aidanglickman**](https://aidanglickman.com)
