@@ -5,17 +5,17 @@
 Alright, so we can't brute force this problem like we could the previous one.
 Or rather, we *could* but it would take way too long to get any meaningful results.
 
-Instead, we can take a look at the compiled code.
+Instead, we can take a look at the compiled code.  
 There are many tools, called [disassemblers](https://en.wikipedia.org/wiki/Disassembler), which take binary machine code and try to recreate the assembly code, such as:
 
--   [IDA](https://www.hex-rays.com/products/ida/)
--   [Hopper](https://www.hopperapp.com/)
--   [Radare](https://rada.re/)
+- [IDA](https://www.hex-rays.com/products/ida/)
+- [Hopper](https://www.hopperapp.com/)
+- [Radare](https://rada.re/)
 
 We can use any of these programs to peer into the code.
 The following is the code when viewed through Radare2:
 
-```
+``` x86
 |           0x00401565      e886010000     call sym.__main
 |           0x0040156a      837df002       cmp dword [local_10h], 2
 |       ,=< 0x0040156e      0f8592000000   jne 0x401606
@@ -34,10 +34,11 @@ The following is the code when viewed through Radare2:
 |       |   0x004015c5      488b45f8       mov rax, qword [local_8h]
 |       |   0x004015c9      4883c008       add rax, 8
 ```
+
 If we take a look at the lines above, we can see the passphrase, which is `this is a much more secure password, i think`.
 Testing out this password in the program gives us a `Congrats!`, and the flag.
 
-```
+``` x86
 |      ,==< 0x004015de      7513           jne 0x4015f3
 |      ||   0x004015e0      488d0d192a00.  lea rcx, str.Congrats__The_key_is_bcactf_its_another_password ; section..rdata ; 0x404000 ; "Congrats! The key is bcactf{its_another_password}"
 |      ||   0x004015e7      e83c150000     call sym.puts               ; int puts(const char *s)

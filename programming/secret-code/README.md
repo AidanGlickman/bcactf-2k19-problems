@@ -1,22 +1,29 @@
 # Secret Code
 
 ## Problem Statement
-Agent Reffef recieves a secret message from Agent Nahte, his secret lover. The message says:
+We intercepted a message between two agents from a terrorist group known as 0x4556494c. We think it might contain some useful information, so we'd like you to crack it. Here is the message. 
 
+BEGIN TRANSMITION  
+
+```
 Dear Agent Reffef,
 
-I have attached the super secret password to my league account.
+I have attached the super secret plans for operation 0x576f726b206f6e207468652070757a7a6c652c2073746f702072656164696e672068657821.
 You will need to decode it first though.
 
 The rules are simple:
 
-If a line length is divisible by 3 and does not contain & you will grab the nth character from it.
-Each time you find a viable line, n will be the next key number written at the top of the file.
-(The password length is the number of numbers at the top of the file)
-All of these characters put together will be the answer.
-hehehe rawr xD ;);););););)
+A line is "viable" if the length of a line is divisible by 3, and the line does not contain the `&` character. 
 
-- Agent Nahte
+For every viable line, you will grab the `n`th character, 
+where `n` is the corresponding number at the top of the file (Counting from one!) 
+The first viable line will use the first number, etc.
+
+Put all the letters together to find the answer!  
+
+- Agent Doposi
+```
+END TRANSMITION
 
 ## Flag
 `bcactf{f0110w_tH3_r00lz_<3_l0ve_m3_pls}`
