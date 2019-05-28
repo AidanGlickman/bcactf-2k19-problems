@@ -11,4 +11,4 @@
 ## Flag
 `bcactf{f1l3_h3ad3rs_r_c001}`
 
-> write-up by: **@20nlevin**
+> write-up by: [**@20nlevin**](https://github.com/20nlevin)
